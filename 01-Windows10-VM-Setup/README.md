@@ -76,3 +76,7 @@ Both commands completed successfully with 0% packet loss, confirming that networ
 ## What I Learned
 
 This test confirmed that my NAT adapter was configured correctly and that the virtual machine could communicate with external networks. I can now download Windows updates, install cybersecurity tools, and access GitHub for future lab work.
+
+## Evidence
+
+Screenshots documenting the Windows 10 VMware lab setup, installation process, network configuration, and connectivity testing are available in the screenshots folder.
